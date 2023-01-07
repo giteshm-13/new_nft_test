@@ -1,4 +1,4 @@
-# just testing nft
+# just testing nft app
 
 
 A new Flutter project created with https://flutlab.io
